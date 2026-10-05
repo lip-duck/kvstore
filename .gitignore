@@ -1,0 +1,9 @@
+build/
+NtyCo/
+*.o
+kvstore
+testcase
+test_mp
+test_array
+test_protocol
+*.log
